@@ -1,0 +1,19 @@
+
+---
+users:
+  columns:
+  - id
+  - name
+  - email
+  - created_at
+  - updated_at
+  - password_digest
+  - remember_token
+  records: 
+  - - 1
+    - Giatecan
+    - giatecan@hotmail.com
+    - 2013-12-01 18:48:46.000000000 Z
+    - 2013-12-01 18:48:46.000000000 Z
+    - $2a$10$Ze7uUuqlnn.hoa9vvKWGNeCrnn6.sBX8oepOP0yuI6beHFfL4AP/6
+    - VxTen5myRrBZLXO_cibjPw
